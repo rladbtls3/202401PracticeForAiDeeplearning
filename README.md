@@ -1,4 +1,4 @@
 # 202401PracticeForAiDeeplearning
 
-Author: **Eujin,Kim**
+Author: **Eujin,Kim**/₩
 purpose: for _AI practice_
